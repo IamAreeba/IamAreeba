@@ -1,4 +1,4 @@
-![logo](https://github.com/IamAreeba/IamAreeba/blob/main/Programmer.jpg)
+![logo](https://github.com/IamAreeba/IamAreeba/blob/main/Programming%20Gif.jpg)
 <h1 align="center">Hi 👋, I'm Areeba Amjad</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
