@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C#, ASP.NET, IOT**
+- 💬 Ask me about **C#,  ASP.NET, IOT**
 
 - 📫 How to reach me **areeba.amjad2023@gmail.com**
 
