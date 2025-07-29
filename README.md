@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React, ExpressJS and .NET**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** 
 
 - 💬 Ask me about **C#,  ASP.NET, IOT**
 
