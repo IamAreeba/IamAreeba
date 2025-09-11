@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamareeba&label=Profile%20views&color=0e75b6&style=flat" alt="iamareeba" /> </p>
 
+
+<img width="624" height="293" alt="image" src="https://github.com/user-attachments/assets/72cf7ce9-5fa8-4e5d-9fcf-fe1355d0d7a0" />
+
 - 🔭 I’m currently working on **React, ExpressJS and .NET**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
