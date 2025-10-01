@@ -1,6 +1,6 @@
 ![logo](https://github.com/IamAreeba/IamAreeba/blob/main/Programming%20Gif.jpg)
 <h1 align="center">Hi 👋, I'm Areeba Amjad</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif"?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamareeba&label=Profile%20views&color=0e75b6&style=flat" alt="iamareeba" /> </p>
