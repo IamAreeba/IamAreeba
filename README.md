@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
-- 💬 Ask me about **JS, C#**
+- 💬 Ask me about **JS, C#, Python**
 
 - 📫 How to reach me **programstream123@gmail.com**
 
